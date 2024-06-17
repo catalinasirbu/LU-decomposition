@@ -1,7 +1,7 @@
 [
 {
   "directory": "C:/Users/catal/VisualStudioProjects/LU-decomposition/build",
-  "command": "C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\LU-decomposition.dir\\main.cpp.obj -c C:\\Users\\catal\\VisualStudioProjects\\LU-decomposition\\main.cpp",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE    -fopenmp -g -fopenmp -std=gnu++11 -o CMakeFiles\\LU-decomposition.dir\\main.cpp.obj -c C:\\Users\\catal\\VisualStudioProjects\\LU-decomposition\\main.cpp",
   "file": "C:/Users/catal/VisualStudioProjects/LU-decomposition/main.cpp"
 }
 ]

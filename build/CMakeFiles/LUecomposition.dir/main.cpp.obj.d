@@ -1,4 +1,4 @@
-CMakeFiles/LU-decomposition.dir/main.cpp.obj: \
+CMakeFiles/LUecomposition.dir/main.cpp.obj: \
  C:\Users\catal\VisualStudioProjects\LU-decomposition\main.cpp \
  C:/PROGRA~1/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/iostream \
  C:/PROGRA~1/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \

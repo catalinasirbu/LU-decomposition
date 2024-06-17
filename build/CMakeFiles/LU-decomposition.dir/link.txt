@@ -1,3 +1,3 @@
 "C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\LU-decomposition.dir/objects.a
 C:\PROGRA~1\mingw64\bin\ar.exe qc CMakeFiles\LU-decomposition.dir/objects.a @CMakeFiles\LU-decomposition.dir\objects1
-C:\PROGRA~1\mingw64\bin\C__~1.EXE -g -Wl,--whole-archive CMakeFiles\LU-decomposition.dir/objects.a -Wl,--no-whole-archive -o LU-decomposition.exe -Wl,--out-implib,libLU-decomposition.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LU-decomposition.dir\linkLibs.rsp
+C:\PROGRA~1\mingw64\bin\C__~1.EXE  -fopenmp -g -Wl,--whole-archive CMakeFiles\LU-decomposition.dir/objects.a -Wl,--no-whole-archive -o LU-decomposition.exe -Wl,--out-implib,libLU-decomposition.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LU-decomposition.dir\linkLibs.rsp

@@ -91,6 +91,8 @@ LU__decomposition_EXTERNAL_OBJECTS =
 
 LU-decomposition.exe: CMakeFiles/LU-decomposition.dir/main.cpp.obj
 LU-decomposition.exe: CMakeFiles/LU-decomposition.dir/build.make
+LU-decomposition.exe: C:/Program\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/libgomp.dll.a
+LU-decomposition.exe: C:/Program\ Files/mingw64/x86_64-w64-mingw32/lib/libmingwthrd.a
 LU-decomposition.exe: CMakeFiles/LU-decomposition.dir/linkLibs.rsp
 LU-decomposition.exe: CMakeFiles/LU-decomposition.dir/objects1
 LU-decomposition.exe: CMakeFiles/LU-decomposition.dir/link.txt
